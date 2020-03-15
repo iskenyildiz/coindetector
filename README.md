@@ -1,0 +1,3 @@
+# coindetector
+
+TBA.
